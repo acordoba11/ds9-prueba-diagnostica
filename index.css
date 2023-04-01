@@ -1,0 +1,33 @@
+.card{
+    border-radius: 25px;
+    
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 250px;
+    background-color: rgb(153, 224, 224);
+    text-align: center;
+    padding: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    margin-bottom: 60px;
+}
+#form{
+    display: flex;
+    flex-direction: column;
+}
+label{
+    text-align: left;
+    margin-bottom: 10px;
+}
+input{
+    margin-bottom: 50px;
+    height: 40px;
+    border-radius: 10px;
+    border-width: thin;
+}
+button{
+    height: 40px;
+    border-radius: 10px;
+    border-width: thin;
+}
